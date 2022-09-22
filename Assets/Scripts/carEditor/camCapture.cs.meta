@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ef0cb68daaf24754ea66b815e9ac98fc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camImage: {instanceID: 0}
+  - topMaterial: {fileID: 2100000, guid: 4468687d64956cb4c8a152bb5bed3bdc, type: 2}
+  - sideMaterial: {fileID: 2100000, guid: 58c83aba1b7a27a448ff5608c570e3e4, type: 2}
+  - frontMaterial: {fileID: 2100000, guid: 7a876eadf7ea6714284de4237ea9c825, type: 2}
+  - backMaterial: {fileID: 2100000, guid: 56c0dd512c7f3ef498303b932badddf5, type: 2}
+  - defaultTexture: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
