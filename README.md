@@ -1,4 +1,4 @@
-# Cars
+# Custom Cars
 A small car racing game where the user can photograph real cars and use the images as a Skin in the race;
 
 This game was initially developed to practice unity3d and so my son could photograph his toy cars and use them in the game.
