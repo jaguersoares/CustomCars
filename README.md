@@ -4,6 +4,8 @@ A small car racing game where the user can photograph real cars and use the imag
 This game was developed to practice my unity3d skyls and so my son could photograph his toy cars and use them in the game.
 It has only been tested on Android.
 
+The game uses the Waypoint progress tracker system and Car AI Control to manage the route of enemies, it also has a recovery system for both the player and the enemies.
+
 
 ![image](https://user-images.githubusercontent.com/101651598/191634513-84725867-2790-4581-b553-ce6b9d832d43.png)
 
